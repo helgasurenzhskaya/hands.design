@@ -4,24 +4,6 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,500,700,900");
 
 
-@font-face {
-    font-family: Bifur; /* Гарнитура шрифта */
-    src: url(font/bifur.ttf); /* Для IE5-8 */
-    src: local(bifur), url(font/bifur.ttf); /* Для остальных браузеров */
-   }
-
-@font-face {
-    font-family: MADE Evolve Sans EVO; /* Гарнитура шрифта */
-    src: url(font/MADEEvolveSansEVO.otf); /* Для IE5-8 */
-    src: local(MADE Evolve Sans EVO), url(font/MADEEvolveSansEVO.otf); /* Для остальных браузеров */
-   }
-
-@font-face {
-    font-family: MADE Evolve Sans; /* Гарнитура шрифта */
-    src: url(font/MADEEvolveSans.otf); /* Для IE5-8 */
-    src: local(MADE Evolve Sans), url(font/MADEEvolveSans.otf); /* Для остальных браузеров */
-   }
-
 
 * {
   margin: 0;
