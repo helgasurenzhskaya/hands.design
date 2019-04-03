@@ -3,7 +3,13 @@
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,500,700,900");
 
-
+@font-face {
+  font-family: 'Bifur';
+  src: 
+       url('bifur.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 
 * {
   margin: 0;
