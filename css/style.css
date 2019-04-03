@@ -11,6 +11,24 @@
   font-style: normal;
 }
 
+
+@font-face {
+  font-family: 'Made';
+  src: 
+       url('font/made.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Evo';
+  src: 
+       url('font/evo.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 * {
   margin: 0;
   padding: 0;
@@ -459,7 +477,7 @@ footer .social a:hover {
 
  #headline {
  
-     text-transform: uppercase; font-family: 'MADE Evolve Sans EVO', sans-serif;font-weight: bold; position: absolute;
+     text-transform: uppercase; font-family: 'Evo', sans-serif;font-weight: bold; position: absolute;
   top: 58%;
   left: 46.7%;
   z-index: 100;
@@ -474,7 +492,7 @@ footer .social a:hover {
 
  #headlinee {
  
-     text-transform: uppercase; font-family: 'MADE Evolve Sans', sans-serif;font-weight: bold; position: absolute;
+     text-transform: uppercase; font-family: 'Made', sans-serif;font-weight: bold; position: absolute;
   top: 55%;
   
   left: 47.5%; 
@@ -525,7 +543,7 @@ font-size: 25vw;
 
 #headlineoneee {
 	text-transform: uppercase;
-	font-family: 'MADE Evolve Sans', sans-serif;
+	font-family: 'Made', sans-serif;
 	font-weight: bold;
 	position: absolute;
 	top: 30.8%;
@@ -539,7 +557,7 @@ font-size: 25vw;
 #headlineone {
     text-transform: uppercase;
     text-transform: uppercase;
-    font-family: 'MADE Evolve Sans EVO', sans-serif;
+    font-family: 'Evo', sans-serif;
     font-weight: bold;
     position: relative;
     top: 30%;
@@ -2182,7 +2200,7 @@ font-size:20vw;
 
 #headlineoneee {
     text-transform: uppercase;
-    font-family: 'MADE Evolve Sans', sans-serif;
+    font-family: 'Made', sans-serif;
     font-weight: bold;
     position: absolute;
     top: 37%;
