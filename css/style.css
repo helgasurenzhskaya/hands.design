@@ -222,21 +222,24 @@ flex-direction: column-reverse;
     
 }
 
+
+
 .item-1 {
-  background-image: url("https://images.unsplash.com/photo-1513460587481-e420015bf11e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80");
+  background-image: url("../img/picture1.jpg");
      
 }
 
 .item-2 {
-  background-image: url("https://images.unsplash.com/photo-1513240942117-c57b2977d398?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80");
+  background-image: url("../img/picture22.jpg");
 }
 
 .item-3 {
-  background-image: url("https://images.unsplash.com/photo-1513838747056-b69972e5f504?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1064&q=80");
+  background-image: 
+    url("../img/picture3.jpg");
 }
 
 .item-4 {
-  background-image: url("https://images.unsplash.com/photo-1519636095032-de6b6b6317e5?ixlib=rb-1.2.1&auto=format&fit=crop&w=874&q=80")
+  background-image: url("../img/picture4.jpg");
       
 }
 
