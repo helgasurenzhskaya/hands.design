@@ -1528,7 +1528,7 @@ path.thic {
   border-radius: 50%;
   transform: translate(-50%, -50%);
   background: #000;
-    z-index:9999;
+   
 }
 .menu__bg--active {
   animation-name: menubg;
