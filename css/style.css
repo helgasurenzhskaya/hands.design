@@ -1553,7 +1553,7 @@ path.thic {
   text-transform: uppercase;
 }
 .menu__container--active {
-  animation-name: menufg;
+  animation-name: menubg;
   animation-duration: 4s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
