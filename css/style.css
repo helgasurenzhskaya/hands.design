@@ -1937,7 +1937,7 @@ main .right-side .project .overlay {
   right: 0;
   z-index: 4;
   background-color: #32cdcd;
-  opacity: .7;
+  opacity: .9;
 }
 main .right-side .project .texts {
   position: absolute;
