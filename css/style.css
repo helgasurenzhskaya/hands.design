@@ -46,8 +46,7 @@ html {
     scrollbar-width: none; /* Firefox */
     -ms-overflow-style: none;  /* IE 10+ */
     overflow-x: hidden;
-	/* cursor: none;*/
-   cursor:  none;
+
      padding:0;
     margin:0; -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -73,28 +72,7 @@ font-weight: normal;
 #three {cursor: default;}
 #five {cursor: default;}
 
- body .cursor {
-  pointer-events: none;
-  height: 0px;
-     z-index: 99999999;
-}
- body .cursor__ball {
  
-  top: 0;
-  left: 0;
-  mix-blend-mode: difference;
-  z-index: 9999;
-     
-}
-body .cursor__ball circle {
-  fill: white;
-  z-index: 99999999999;
-}
-
-body .cursor__ball--small{
-    z-index: 99999999;
-
-}
 
 
 .wrapsite { margin : 0 auto;  }
@@ -112,7 +90,7 @@ z-index: 5000;
   left: 0;
   background: #fff;
   transition: .75s;
-    cursor: none;
+    
 }
 
 .loading-title {
@@ -124,7 +102,7 @@ z-index: 5000;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
 font-family: Bifur;
-    cursor: none;
+    
     
     font-weight: normal;
   text-align: center;
@@ -147,7 +125,7 @@ font-family: Bifur;
   width: 100%;
   position: absolute;
   transition: .35s;
-    cursor: none;
+   
    
 }
 
@@ -276,7 +254,7 @@ section:nth-child(2n) {
 background-image: url("http://15.metronome3.com/assets/dots.pngg");
   background-position: 50% 50%;
  
-    cursor: none;
+   
   
 }
 
@@ -294,7 +272,7 @@ background-position: 27% 70%;
   position: fixed;
 mix-blend-mode: difference;
     color: white;
-    cursor:none;
+   
   bottom: 0%;
   left: 1%;
   -webkit-transform: translate(0, -50%);
@@ -379,7 +357,7 @@ mix-blend-mode: difference;
     
     color: white;
   transition: height 0.25s cubic-bezier(0.455, 0.03, 0.515, 0.955);
-    cursor: none;
+    
 }
 
 
@@ -437,7 +415,7 @@ footer .social a {
   -o-transition: all, 0.3s;
   -webkit-transition: all, 0.3s;
   transition: all, 0.3s;
-    cursor: none;
+    
 }
 footer .social a:hover {
   background-color: black;
@@ -445,7 +423,7 @@ footer .social a:hover {
   -o-transition: all, 0.3s;
   -webkit-transition: all, 0.3s;
   transition: all, 0.3s;
-    cursor: none;
+   
 }
 
 .linked {
@@ -1793,7 +1771,7 @@ main .left-menur {
   grid-template-rows: 80px auto 80px;
   grid-template-columns: 1;
   background-color: black;
-    cursor: none;
+    
 }
 main .left-menur .menur {
   grid-row: 2;
@@ -2102,9 +2080,7 @@ font-size:20vw;
 @media (max-width: 450px) { 
 
 
-.cursor {
-    
-    display: none;}
+
     
     #scroll-indicator {display: none;}
 
