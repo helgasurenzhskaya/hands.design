@@ -277,7 +277,7 @@ section:nth-child(2n) {
 background-image: url("http://15.metronome3.com/assets/dots.pngg");
   background-position: 50% 50%;
  
-   
+   cursor: none;
   
 }
 
