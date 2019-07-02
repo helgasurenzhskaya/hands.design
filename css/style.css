@@ -1088,7 +1088,7 @@ img {width: 0; }
   text-decoration: none;
   z-index: 1;
     transform: scale(-1, 1);
-   margin-bottom: 10%;
+   margin-bottom: 5%;
 }
 .section__more-link::before {
   content: '';
