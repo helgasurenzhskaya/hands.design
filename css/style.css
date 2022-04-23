@@ -169,7 +169,10 @@ font-family: Bifur;
 
 
 
-   
+   @media (max-width: 450px) {
+.cursor {display: none; }
+
+}
     
 
 
